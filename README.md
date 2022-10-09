@@ -10,11 +10,11 @@ The goal was to create a function that receives a list of strings that are arith
 **2) Time Calculator:**
 The project demanded to write a function named add_time that takes in two required parameters and one optional parameter that takes:
 
-a) a start time in the 12-hour clock format (ending in AM or PM)
+**a)** a start time in the 12-hour clock format (ending in AM or PM)
 
-b) a duration time that indicates the number of hours and minutes
+**b)** a duration time that indicates the number of hours and minutes
 
-c) (optional) a starting day of the week, case insensitive
+**c)** (optional) a starting day of the week, case insensitive
 
 The function should add the duration time to the start time and return the result.
 
